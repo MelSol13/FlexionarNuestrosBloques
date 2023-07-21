@@ -1,0 +1,41 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 10px;
+}
+.top-nav {
+    height: 130px;
+    background-color: green;
+}
+.side-nav {
+    height: 265px;
+    width: 185px;
+    background-color: blue;
+    margin-top: 10px;
+}
+.main {
+    height: 350px;
+    width: 750px;
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}
+.sub-content {
+    height: 190px;
+    width: 225px;
+    background-color: yellow;
+    margin: 5px;
+}
+#advertisement {
+    height: 110px;
+    width: 695px;
+    background-color: purple;
+    margin: 10px;
+    margin-left: 5px;
+}
+.row {
+    display: flex;
+}
+
